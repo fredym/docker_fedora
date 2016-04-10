@@ -1,0 +1,4 @@
+#!/bin/bash
+
+docker build -t fredym/fedora .
+docker push fredym/fedora
